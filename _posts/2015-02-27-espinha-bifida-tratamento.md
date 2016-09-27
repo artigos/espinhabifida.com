@@ -4,7 +4,7 @@ title: Tratamento da espinha bífida
 permalink: espinha-bifida-tratamento.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <h2>Tratamento da Espinha Bifida</h2>
 Todas as crianças com mielomeningocele, por causa da lesão congênita dos nervos e da medula, apresentam alterações da força muscular em membros inferiores, podendo haver, ainda, algum comprometimento da musculatura do abdomen e da coluna. Em relação ao tratamento, é importante que pais e profissionais saibam que a melhoria da força dos músculos não depende da quantidade ou do tipo de exercícios que a criança realiza mas sim do grau e  o nível da lesão da medula e das raízes nervosas. Quanto menor for a alteração do movimento, maior será a probabilidade dos músculos serem fortalecidos. Por outro lado, os músculos sem movimento ou com fraqueza acentuada não podem ter  a sua força aumentada.

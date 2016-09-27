@@ -4,7 +4,7 @@ title: Etiologia da espinha bífida
 permalink: espinha-bifida-etiologia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O defeito ocorre por consequência de:
 <ol>

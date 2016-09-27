@@ -4,7 +4,7 @@ title: Aconselhamento aos pais
 permalink: espinha-bifida-aconselhamento-aos-pais.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <h2><strong>Aconselhamento aos pais</strong></h2>
 Os pais necessitam , antes de mais nada, serem informados sobre a natureza e extensão da doença, sobre o que a causou, qual o tratamento a seguir e quais as necessidades e capacidades próprias da criança.

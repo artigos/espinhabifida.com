@@ -4,7 +4,7 @@ title: Espinha Bífida
 permalink: index.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 <img title="espinha-bifida" src="{{ site.url }}/assets/2011/07/espinha-bifida.jpg" alt="Espinha Bífida" />
 
