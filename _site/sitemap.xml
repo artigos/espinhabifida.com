@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="//www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="//www.sitemaps.org/schemas/sitemap/0.9 //www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="//www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/index.html</loc>
+    <loc>//localhost:4000/index.html</loc>
     <lastmod>2015-03-03T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>/espinha-bifida-diagnostico.html</loc>
+    <loc>//localhost:4000/espinha-bifida-diagnostico.html</loc>
     <lastmod>2015-03-02T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>/espinha-bifida-etiologia.html</loc>
+    <loc>//localhost:4000/espinha-bifida-etiologia.html</loc>
     <lastmod>2015-03-01T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>/espinha-bifida-aconselhamento-aos-pais.html</loc>
+    <loc>//localhost:4000/espinha-bifida-aconselhamento-aos-pais.html</loc>
     <lastmod>2015-02-28T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>/espinha-bifida-tratamento.html</loc>
+    <loc>//localhost:4000/espinha-bifida-tratamento.html</loc>
     <lastmod>2015-02-27T00:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>/404.html</loc>
-    <lastmod>2015-03-04T13:14:09+02:00</lastmod>
+    <loc>//localhost:4000/404</loc>
+    <lastmod>2017-04-20T19:08:11+03:00</lastmod>
   </url>
   <url>
-    <loc>/</loc>
-    <lastmod>2015-03-04T13:14:09+02:00</lastmod>
+    <loc>//localhost:4000/</loc>
+    <lastmod>2017-04-20T19:08:11+03:00</lastmod>
   </url>
   <url>
-    <loc>/privacidade/</loc>
-    <lastmod>2015-03-04T13:14:09+02:00</lastmod>
+    <loc>//localhost:4000/privacidade/</loc>
+    <lastmod>2017-04-20T19:08:11+03:00</lastmod>
   </url>
 </urlset>

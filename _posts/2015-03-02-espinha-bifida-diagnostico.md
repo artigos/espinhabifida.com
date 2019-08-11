@@ -15,7 +15,7 @@ permalink: espinha-bifida-diagnostico.html
 - Obliteração Cisterna magna (&lt;2,0mm)
 - Curvatura anterior do Cerebelo, "Sinal da Banana"
 
-<img src="http://www.espinhabifida.com/espinha-bifida-etiologia_clip_image002.jpg" alt="" width="324" height="243" />
+<img src="//www.espinhabifida.com/espinha-bifida-etiologia_clip_image002.jpg" alt="" width="324" height="243" />
 
 <strong>Diagnóstico Diferencial</strong>
 <table border="0" cellspacing="3" cellpadding="3">
